@@ -7,10 +7,15 @@
 ## O que foi feito:
 
 **Avaliação Detalhada:** O desempenho do modelo foi avaliado no conjunto de teste utilizando as seguintes métricas:
+
     *   **Acurácia:** Medida geral de acertos.
+    
     *   **Sensibilidade (Recall):** Proporção de verdadeiros positivos identificados corretamente.
+    
     *   **Especificidade:** Proporção de verdadeiros negativos identificados corretamente.
+    
     *   **Precisão:** Proporção de previsões positivas que são realmente positivas.
+    
     *   **F-score:** Média harmônica entre precisão e recall.
 
 Usamos tanto recursos do framework, tanto fórmulas dadas pelo problema.
